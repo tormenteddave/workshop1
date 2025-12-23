@@ -1,0 +1,20 @@
+# Mac 
+DS_Store 
+.DS_Store? 
+._* 
+.Spotlight-V100 
+.Trashes 
+.AppleDouble 
+.LSOverride
+
+# Python 
+.venv/ 
+venv/ 
+__pycache__/ 
+*.pyc 
+*.pyo 
+.env 
+
+# IDE 
+.vscode/ 
+.idea/
